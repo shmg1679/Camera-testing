@@ -30,14 +30,18 @@ In another terminal, cd into the same folder and enter this while connected to a
   npx react-native run-android
   ```
 # Android studio configuration
+
+This [video](https://www.youtube.com/watch?v=LiHkAGyNSJU) can help do them step by step for Android studio if what I said isn't clear. 
+
 When android studio is downloaded, most of the SDK settings and tools are already set for this to work aside from the paths that needed to be create.
 The easiest way to find the paths would be opening up SDK manage to find the first path where it says Android SDK Location.
+
 ![image](https://user-images.githubusercontent.com/91004979/172686681-c0329299-7019-4685-bbdb-9eb83e9099da.png)
 
 The others you can find by clicking on the blue text Edit option and on the bottom here and click on the folder icon:
+
 ![image](https://user-images.githubusercontent.com/91004979/172687220-f0317f8e-cde5-45dc-9526-cfdf366e9baa.png)
 
-Here you will scroll down to select tools or platform tools and get the location of these two files to create the paths by copy and pasting the top part. Here in my case, it is ``` C:\Users\shimi\AppData\Local\Android\Sdk\tools ``` for the ANDROID_TOOLS path, etc.
-![image](https://user-images.githubusercontent.com/91004979/172687512-a9568d6e-fd28-42f5-8dde-a10e8982631c.png)
+Here you will scroll down to select tools or platform tools and get the location of these two files to create the paths by copy and pasting the top part. Here in my case, it is ``` C:\Users\shimi\AppData\Local\Android\Sdk\tools ``` for the ANDROID_TOOLS path and the platform tools should be the one above in the list you can see here.
 
-This [video](https://www.youtube.com/watch?v=LiHkAGyNSJU) can help do them step by step for Android studio. 
+![image](https://user-images.githubusercontent.com/91004979/172687512-a9568d6e-fd28-42f5-8dde-a10e8982631c.png)
