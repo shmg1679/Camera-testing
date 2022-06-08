@@ -45,3 +45,15 @@ The others you can find by clicking on the blue text Edit option and on the bott
 Here you will scroll down to select tools or platform tools and get the location of these two files to create the paths by copy and pasting the top part. Here in my case, it is ``` C:\Users\shimi\AppData\Local\Android\Sdk\tools ``` for the ANDROID_TOOLS path and the platform tools should be the one above in the list you can see here.
 
 ![image](https://user-images.githubusercontent.com/91004979/172687512-a9568d6e-fd28-42f5-8dde-a10e8982631c.png)
+
+## Creating the phone emulator 
+
+When creating the phone, I pick this 
+
+![image](https://user-images.githubusercontent.com/91004979/172690688-212ceaf1-e860-47f1-beb5-c3383a5af4b3.png)
+
+And here you have to make sure to download one of these by clicking the blue download option, I picked the R system image so here you won't see it since I already downloaded it.
+
+![image](https://user-images.githubusercontent.com/91004979/172690979-4ed78d8c-bffd-42e5-9bae-d7b763b45563.png)
+
+All thats left is clicking finish on the next page and it should create the emulator for you. 
